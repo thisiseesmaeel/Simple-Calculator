@@ -1,4 +1,3 @@
-// Lesson #55
 use std::env::{args, Args};
 
 fn main() {
